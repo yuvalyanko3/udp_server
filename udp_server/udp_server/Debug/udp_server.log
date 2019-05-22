@@ -1,0 +1,3 @@
+﻿  udp_server.cpp
+c:\users\yuval\dropbox\לימודים\תקשורת\תרגיל 2\תרגיל 2\udp_server\udp_server\udp_server.cpp(172): warning C4172: returning address of local variable or temporary: toReturn
+  udp_server.vcxproj -> C:\Users\Yuval\Dropbox\לימודים\תקשורת\תרגיל 2\תרגיל 2\udp_server\Debug\udp_server.exe
